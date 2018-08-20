@@ -3,8 +3,8 @@ Microsoft exchange server automated tracking logs analysis tool. Analyse logs us
 
 # Dependencies 
 + PowerShell 5 (Optional Ver. 5)
-+ PowerShell Modules (ImportCSV, ImportExcel)
-+ Log Parser 2+
++ PowerShell Modules (ImportCSV, [ImportExcel](https://www.powershellgallery.com/packages/ImportExcel/5.2.0))
++ [Log Parser 2+](https://www.microsoft.com/en-pk/download/details.aspx?id=24659)
 + MS Excel (To read reports)
 
 
